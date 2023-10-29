@@ -2,7 +2,7 @@
 Each week, you'll receive a feedback file in GitHub showing a final grade and any specific comments on your assignment, including why points (if any) were deducted.
 
 
-## Final Score: 10/10
+## Final Score: 9.5/10
 
 ## Multiple Choice:
 _Did you complete and submit the multiple choice part of the assignment?_
@@ -25,4 +25,4 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 * Appropriate comments with your code?
   * **It is helpful to include code comments.**
 * Generally easy to follow and undersand?
-  * **Your code is easy to follow and understand.**
+  * **(-0.5) Your code is easy to follow and understand; however, your JSON file is not indented properly. Please refer to Professor Boal's examples.**
