@@ -25,4 +25,4 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 * Appropriate comments with your code?
   * **It is helpful to include code comments.**
 * Generally easy to follow and undersand?
-  * **(-0.5) Your code is easy to follow and understand; however, your JSON file is not indented properly. Please refer to Professor Boal's examples.**
+  * **(-0.5) Your code is easy to follow and understand; however, your JSON string is not indented properly. Please refer to Professor Boal's examples.**
